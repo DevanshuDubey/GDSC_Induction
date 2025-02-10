@@ -1,1 +1,1 @@
-# GDSC_Induction
+# GDSC Induction
