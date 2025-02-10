@@ -8,7 +8,7 @@ This repository contains a **Movie Recommendation System** designed using three 
 2. **Content-Based Filtering** - Uses item features (such as movie tags) to recommend similar items.
 3. **Hybrid Filtering** - Combines the strengths of both content-based and collaborative filtering for improved recommendations.
 
-The system is designed to recommend movies to users based on their previous behavior (ratings and tags). It is implemented using Python with libraries such as **pandas**, **scikit-learn**, and **Streamlit** for an interactive web application.
+The system is designed to recommend movies to users based on their previous behavior (ratings and tags).
 
 ## Key Features
 
